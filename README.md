@@ -119,11 +119,14 @@ Password: 123
 
 ## Hình ảnh giao diện
 
-```md
-![Trang chủ](screenshots/home.png)
-![Giỏ hàng](screenshots/cart.png)
-![Trang quản trị](screenshots/admin.png)
-```
+<img width="1877" height="886" alt="image" src="https://github.com/user-attachments/assets/ffaf66b5-ddb0-4898-8709-7912a377742e" />
+<img width="1901" height="896" alt="image" src="https://github.com/user-attachments/assets/3b38daa1-4a9d-4536-a326-869b68e822d3" />
+<img width="1867" height="892" alt="image" src="https://github.com/user-attachments/assets/fdc8398c-9d08-47f4-9921-241a0cd4709c" />
+<img width="1877" height="896" alt="image" src="https://github.com/user-attachments/assets/a1af4777-2ca3-41c0-913f-25c7251973bb" />
+<img width="1876" height="906" alt="image" src="https://github.com/user-attachments/assets/96314001-9f2f-4a0c-ace9-992e0fdb7324" />
+<img width="1875" height="900" alt="image" src="https://github.com/user-attachments/assets/d6e35f12-c432-40fd-b5c0-d4f7d6e1c8a8" />
+<img width="1872" height="903" alt="image" src="https://github.com/user-attachments/assets/5038d7e2-e25f-4299-ba62-886fd5face6a" />
+
 
 ## Định hướng phát triển
 
